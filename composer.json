@@ -1,0 +1,12 @@
+{
+    "name": "marius/laravel-shoping_cart",
+    "authors": [
+        {
+            "name": "Marius Miron",
+            "email": "marius.costel.miron@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/installer": "~1.1"
+    }
+}
