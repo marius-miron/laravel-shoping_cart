@@ -13,5 +13,7 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('login');
 });
+
+Route::get('laravel-shoping_cart' , 'LoginController@postLogin');
